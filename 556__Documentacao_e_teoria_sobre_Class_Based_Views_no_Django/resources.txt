@@ -1,1 +1,1 @@
-https://github.com/luizomf/projeto-blog-django-23/commit/20fc7a0bdd33cb3a3a141bbd6375de92fc4ef5a7
+https://docs.djangoproject.com/pt-br/4.2/ref/class-based-views/
